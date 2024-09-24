@@ -7,6 +7,7 @@ Java Backend Developer
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,github,git,linkedin,gitlab,idea)](https://skillicons.dev)
 
 ### Skills 
+
 - **Java Core**: Strong understanding of core Java concepts and syntax.  
 
 - **MySQL**: Proficient in working with relational databases, writing SQL queries, and managing databases.  
@@ -22,7 +23,7 @@ Java Backend Developer
 - **Git and GitHub**: Proficient in using Git for version control and managing repositories on GitHub.  
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/rea1dias/)
+- [LinkedIn](https://www.linkedin.com/in/rea1dias/)
 - [Email](mailto:rahmanovdias13@gmail.com)
 - [GitHub](https://github.com/rea1dias)
 
