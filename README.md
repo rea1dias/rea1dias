@@ -24,6 +24,13 @@ Java Backend Developer
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/rea1dias/)
-- [Email](mailto:rahmanovdias13@gmail.com)
 - [GitHub](https://github.com/rea1dias)
+- [Telegram](https://t.me/rea1dias)
+- [Discord](https://discord.gg/Fcph5QYc)
+
+
+
+
+
+
 
