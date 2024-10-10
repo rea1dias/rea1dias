@@ -1,7 +1,7 @@
 ## Hello, I'm Dias.
 
 ### About Me
-Java Backend Developer
+Back-end Developer
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,github,git,linkedin,gitlab,idea)](https://skillicons.dev)
