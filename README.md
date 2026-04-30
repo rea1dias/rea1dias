@@ -10,11 +10,7 @@ Back-end Developer
 
 - **Java Core**: Strong understanding of core Java concepts and syntax.  
 
-- **MySQL**: Proficient in working with relational databases, writing SQL queries, and managing databases.  
-
 - **PostgreSQL**: Experience in managing PostgreSQL databases and writing efficient SQL queries.  
-
- - **MongoDB**: Experience in working with MongoDB for NoSQL database management.  
 
 - **Spring Framework**: Basic experience in using Spring to build scalable web applications.  
 
