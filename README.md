@@ -6,9 +6,10 @@ Backend Developer from Almaty, Kazakhstan. I build scalable microservice systems
 
 ## 🚀 About Me
 
-- 💼 Backend Developer with commercial experience
-- 🌱 Constantly learning distributed systems, event-driven architecture, and cloud-native patterns
-- 📍 Almaty, Kazakhstan
+* 💼 Junior Software Engineer
+* ☕ Specializing in Java Backend Development with Spring Boot
+* 🌱 Continuously learning distributed systems, microservices, event-driven architecture, and cloud-native technologies
+* 📍 Almaty, Kazakhstan
 
 ---
 
