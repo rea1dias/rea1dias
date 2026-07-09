@@ -50,31 +50,6 @@ Backend Developer from Almaty, Kazakhstan. I build scalable microservice systems
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,idea,linux)](https://skillicons.dev)
 
----
-
-## 📌 Featured Project
-
-### [ShopGrid](https://github.com/rea1dias/ShopGrid)
-A backend e-commerce platform built with microservice architecture.
-
-- 11 independent services communicating via Kafka
-- API Gateway with JWT authentication and rate limiting
-- Outbox Pattern for guaranteed event delivery
-- Email notifications via Resend
-- Aggregated Swagger UI across all services
-- Full observability: Prometheus, Grafana, Jaeger
-- Deployed with Docker Compose, Kubernetes, Helm
-
----
-
-## 📊 GitHub Stats
-
-![Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=rea1dias&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rea1dias&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rea1dias/)
