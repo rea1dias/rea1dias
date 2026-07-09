@@ -1,6 +1,6 @@
 # Hi, I'm Dias 👋
 
-Backend Developer from Almaty, Kazakhstan. I build scalable microservice systems with Java and Spring Boot.
+Junior Software Engineer
 
 ---
 
