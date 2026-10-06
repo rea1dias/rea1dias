@@ -1,6 +1,6 @@
 # Hi, I'm Dias 👋
 
-Junior Software Engineer
+Software Engineer
 
 ---
 
