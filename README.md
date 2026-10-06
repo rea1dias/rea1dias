@@ -6,8 +6,8 @@ Junior Software Engineer
 
 ## 🚀 About Me
 
-* 💼 Junior Software Engineer
-* ☕ Specializing in Java Backend Development with Spring Boot
+* 💼 Software Engineer
+* ☕ Specializing in (Java/Kotlin) Backend Development with Spring Boot
 * 🌱 Continuously learning distributed systems, microservices, event-driven architecture, and cloud-native technologies
 * 📍 Almaty, Kazakhstan
 
