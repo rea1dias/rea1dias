@@ -6,8 +6,20 @@ Software Engineer
 
 ## 🚀 About Me
 
-* 💼 Software Engineer
-* ☕ Specializing in (Java/Kotlin) Backend Development with Spring Boot
+* 💼 Software Engineer — Java/Kotlin Backend Developer
+* ☕ Specializing in backend development with Java 17, Kotlin, and Spring Boot
+* 🏛️ **eGov 3.0 — Kazakhstan e-Government Platform**
+  * Developing backend services for public services used by millions of citizens
+  * Built government service workflows using Kotlin, Spring Boot, gRPC, and Protobuf
+  * Integrated government information systems through SOAP/XML and REST APIs
+  * Implemented asynchronous communication between microservices using Apache Kafka
+  * Wrote unit and integration tests with JUnit, MockK, and Testcontainers
+  * Worked with Docker, Kubernetes, Helm, and GitLab CI/CD
+* 🎵 **Zvuk — Music Streaming Platform**
+  * Developed podcast metadata management features using Java and Spring Boot
+  * Implemented and maintained internal REST APIs for communication between services
+  * Worked with PostgreSQL, SQL queries, and database schema changes
+  * Documented APIs using OpenAPI/Swagger and collaborated with analysts and QA engineers
 * 🌱 Continuously learning distributed systems, microservices, event-driven architecture, and cloud-native technologies
 * 📍 Almaty, Kazakhstan
 
