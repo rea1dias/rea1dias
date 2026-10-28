@@ -38,7 +38,6 @@ Software Engineer
 
 - PostgreSQL — relational data, one DB per service
 - Redis — caching, rate limiting, session storage
-- Elasticsearch — full-text search
 
 ### Messaging & Events
 - Apache Kafka — event-driven communication
