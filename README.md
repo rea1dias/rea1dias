@@ -1,6 +1,6 @@
 # Hi, I'm Dias 👋
 
-Backend Software Engineer — Java / Kotlin, Spring Boot. Almaty, Kazakhstan.
+Software Engineer — Java / Kotlin, Spring Boot
 
 1.5 years of commercial backend development on products used by millions of people: **eGov 3.0**, the national e-government portal of Kazakhstan, and **Zvuk**, a music streaming service with 20M+ active users.
 
